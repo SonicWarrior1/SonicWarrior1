@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harjot Singh</h1>
 <h3 align="center">I am a highly motivated and experienced software engineer with a passion for technology.I have experience in Flutter, App Development, Python and Machine Learning.</h3>
 
-- 💬 Ask me about **Flutter, Python, Machine Learning**
+- 💬 Ask me about **Flutter, Python, Machine Learning, C++**
 
 - 📫 How to reach me **harjot802@gmail.com**
 
