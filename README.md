@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discordapp.com/users/484340505681985538" target="blank"><img align="center" src="https://github.com/SonicWarrior1/SonicWarrior1/assets/73881129/c00ee519-b60e-46d5-8c25-af734161fa6b" alt="harjot singh" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/harjot singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harjot singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/sonicwarrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sonicwarrior" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harjot802/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harjot802/profile" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/harjot802/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harjot802/profile" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
